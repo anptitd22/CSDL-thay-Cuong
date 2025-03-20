@@ -7,4 +7,4 @@ and h.NGHD='2006-10-10';
 -- inner join nhanvien n
 -- on h.MANV=n.MANV 
 -- where n.HOTEN = 'Nguyen Van B'
-and h.NGHD='2006-10-10';
+-- and h.NGHD='2006-10-10';
